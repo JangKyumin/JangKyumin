@@ -4,4 +4,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangKyumin&show_icons=true&theme=radical)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+language : <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+framework : <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
