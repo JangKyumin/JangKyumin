@@ -5,6 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangKyumin&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdrbals123)](https://solved.ac/wkdrbals123/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JangKyumin?theme=dark)
 
 Stack   
 -----   
